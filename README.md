@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm from a small town near Magdeburg. But i live in Berlin.<br><br>🌱 I’m currently learning HTML, CSS, JavaScript and vue. ...Next Step: Python!<br>📫 How to reach me: hannes.broehl@web.de<br>⚡ Fun fact: prefer tea to coffee but somtimes only coffee helps.<br>📍currently living in Berlin. But I prefer my home country.</p>
+<p align="left">I'm from a small town near Magdeburg. But i live in Berlin.<br><br>🌱 I’m currently learning HTML, CSS, JavaScript and vue. ...Next Step: Python!⚡ Fun fact: prefer tea to coffee but somtimes only coffee helps.<br>📍currently living in Berlin. But I prefer my home country.</p>
 
 ###
 
@@ -47,8 +47,8 @@
 
 <div align="left">
   
-📫 <h3> How to reach me: </h3>
+ <h3> 📫 How to reach me: </h3>
 📧 E-Mail: hannes.broehl@web.de
-</div>div>
+</div>
 
 ###
