@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">👩‍💻 About Me:<br>event technician / cad-constructor --> Web-Developer learning by @coding-bootcamps-eu<br><br>📫 How to reach me:<br>📧 E-Mail: hannes.broehl@web.de</h2>
+<h2 align="left">👩‍💻 About Me:<br>event technician / cad-constructor --> Web-Developer learning by @coding-bootcamps-eu<br><br>📫 How to reach me: hannes.broehl@web.de
 
 ###
 
