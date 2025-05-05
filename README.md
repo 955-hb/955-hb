@@ -14,11 +14,11 @@
 
 ###
 
-<h2 align="left">👩‍💻 About Me:<br>event technician / cad-constructor --> Web-Developer learning by @coding-bootcamps-eu<br><br>📫 How to reach me: hannes.broehl@web.de
+<h2 align="left">👩‍💻 About Me:<br>event technician / cad-constructor --> future Web-Developer <br><br>📫 How to reach me: hannes.broehl@web.de
 
 ###
 
-<p align="left">I'm from a small town near Magdeburg. But i live in Berlin.<br><br>🌱 I’m currently learning HTML, CSS, JavaScript and vue. ...Next Step: Python!⚡ Fun fact: prefer tea to coffee but somtimes only coffee helps.<br>📍currently living in Berlin. But I prefer my home country.</p>
+<p align="left">I'm from a small town near Magdeburg.<br><br>🌱 I’m currently learning HTML, CSS, JavaScript and Vue.js.⚡ Fun fact: prefer tea to coffee but somtimes only coffee helps.<br>📍currently living in Berlin. But I prefer my home country.</p>
 
 ###
 
@@ -35,14 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=955-hb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=955-hb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
