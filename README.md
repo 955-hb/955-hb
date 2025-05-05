@@ -14,7 +14,9 @@
 
 ###
 
-<h2 align="left">👩‍💻 About Me:<br>event technician / cad-constructor --> future Web-Developer <br><br>📫 How to reach me: hannes.broehl@web.de
+<h2 align="left">
+  👩‍💻 About Me:event technician / cad-constructor --> future Web-Developer 
+  <br>📫 How to reach me: <a href="mailto:hannes.broehl@web.de">contact me</a>
 
 ###
 
