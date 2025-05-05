@@ -16,7 +16,7 @@
 
 <h2 align="left">
   👩‍💻 About Me:event technician / cad-constructor --> future Web-Developer 
-  <br>📫 How to reach me: <a href="mailto:hannes.broehl@web.de">contact me</a>
+  <br>📫 How to reach me: hannes.broehl@web.de <a href="mailto:hannes.broehl@web.de">contact me</a>
 
 ###
 
