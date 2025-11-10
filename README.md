@@ -15,7 +15,7 @@
 ###
 
 <h2 align="left">
-  👩‍💻 About Me:event technician / cad-constructor --> future Web-Developer 
+  👩‍💻 About Me:event technician / cad-constructor --> future Web-Developer and Python-Lover
   <br>📫 How to reach me: hannes.broehl@web.de <a href="mailto:hannes.broehl@web.de">contact me</a>
 
 ###
@@ -39,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/python-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
 </div>
 
