@@ -21,7 +21,7 @@
 ###
 
 <p align="left">I'm from a small town near Magdeburg.
-  <br>🌱 I’m currently learning HTML, CSS, JavaScript and Vue.js.
+  <br>🌱 I’m currently learning Python.
   <br>⚡ Fun fact: prefer tea to coffee but somtimes only coffee helps.
   <br>📍currently living in Berlin. But I prefer my home country.</p>
 
